@@ -1,6 +1,6 @@
 .idea/
 .vscode/
-venv/
+venv101/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
